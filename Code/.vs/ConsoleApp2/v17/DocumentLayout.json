@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Collage projects\\N Puzzle\\program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6CF449-EDE7-4BDB-B456-98DE8771744F}|ConsoleApp2\\ConsoleApp2.csproj|e:\\collage projects\\n puzzle\\program\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6CF449-EDE7-4BDB-B456-98DE8771744F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6CF449-EDE7-4BDB-B456-98DE8771744F}|ConsoleApp2\\ConsoleApp2.csproj|e:\\collage projects\\n puzzle\\program\\consoleapp2\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6CF449-EDE7-4BDB-B456-98DE8771744F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "E:\\Collage projects\\N Puzzle\\program\\ConsoleApp2\\Vertex.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Vertex.cs",
+              "ToolTip": "E:\\Collage projects\\N Puzzle\\program\\ConsoleApp2\\Vertex.cs",
+              "RelativeToolTip": "ConsoleApp2\\Vertex.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:40:32.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Collage projects\\N Puzzle\\program\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "E:\\Collage projects\\N Puzzle\\program\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAGQCAAAAAAAAAAAAAHkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:40:32.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
